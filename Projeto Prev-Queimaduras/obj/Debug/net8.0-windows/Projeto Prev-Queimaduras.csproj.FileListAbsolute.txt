@@ -1,0 +1,9 @@
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras_MarkupCompile.cache
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras.g.resources
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras.AssemblyInfoInputs.cache
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras.AssemblyInfo.cs
+C:\Users\Kensh\source\repos\Projeto Prev-Queimaduras\obj\Debug\net8.0-windows\Projeto Prev-Queimaduras.csproj.CoreCompileInputs.cache
